@@ -5,6 +5,7 @@ metadata:
   description: python app that displays time
   annotations:
     github.com/project-slug: swas-kar/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
