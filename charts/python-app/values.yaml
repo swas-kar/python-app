@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: swaskar03/python-app
   pullPolicy: IfNotPresent
-  tag: latest
+  tag: v2
 
 imagePullSecrets: []
 nameOverride: ""
